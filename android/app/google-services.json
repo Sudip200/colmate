@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "201721663741",
+    "project_id": "curd-app-8cdbf",
+    "storage_bucket": "curd-app-8cdbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201721663741:android:dcd009d458e69486b0ee94",
+        "android_client_info": {
+          "package_name": "com.date.colmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201721663741-ph975oonh1p8hefqo5juu2hu302bjojj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUGVYsAyesaAjWTHpiImprQEJzxPfS0cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201721663741-ph975oonh1p8hefqo5juu2hu302bjojj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "201721663741-tbrs83rt5mq36ncstneudhlobimtm8ij.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.colmate"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201721663741:android:278403e7f4e0eeabb0ee94",
+        "android_client_info": {
+          "package_name": "com.example.colmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201721663741-j67spvbmqvf74t1amjq2go7042gjs6fo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.colmate",
+            "certificate_hash": "264b79dd056f3085d05beca197a2e048ad7f8201"
+          }
+        },
+        {
+          "client_id": "201721663741-ph975oonh1p8hefqo5juu2hu302bjojj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUGVYsAyesaAjWTHpiImprQEJzxPfS0cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201721663741-ph975oonh1p8hefqo5juu2hu302bjojj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "201721663741-tbrs83rt5mq36ncstneudhlobimtm8ij.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.colmate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
